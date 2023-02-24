@@ -32,6 +32,7 @@ INTEGRANTES:
 *MATERIAL Y EQUIPO REQUERIDO*
 
 ![image](https://user-images.githubusercontent.com/105020538/221103633-b7d05a6c-b191-4654-95e1-e3b411941976.png)
+
 *PROCEDIMIENTO*
 
 9.5.1 Sin emplear calculadora. Transforme a su forma polar: 
